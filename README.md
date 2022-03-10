@@ -1,1 +1,2 @@
-# syncronised-ball-movemenr-game
+# synchronousBallMovement
+Ball moving synchronously
